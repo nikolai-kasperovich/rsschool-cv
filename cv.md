@@ -1,7 +1,7 @@
 # **Nikolay Kasperovich**
 
 * Email:                            kolya.kasperovich@gmail.com
-* Phone:                            +375 (44) 984-50-19
+* Phone:                            +375 (25) 984-50-19
 * Linkedin:                         [https://www.linkedin.com/in/nikolai-kasperovich]
 
 # **Summary**
@@ -71,4 +71,4 @@ and now is looking for new opportunities.
 #### ***Android development***
 
 # **English level**
-My English level is B2 (Upper-Intermediate) according to online testing tool. I've learned it at school, college, and several courses. I don't have experience in spoken english with native speakers, but I think, I could express my thoughts quite confidently.
+My English level is B2 (Upper-Intermediate) according to online testing tool. I've learned it at school, college, and several courses. I don't have experience in spoken english with native speakers, but I think, I could express my thoughts quite confidently. 
