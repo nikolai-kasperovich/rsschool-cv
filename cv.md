@@ -71,4 +71,4 @@ and now is looking for new opportunities.
 #### ***Android development***
 
 # **English level**
-B2 Upper-Intermediate
+My English level is B2 (Upper-Intermediate) according to online testing tool. I've learned it at school, college, and several courses. I don't have experience in spoken english with native speakers, but I think, I could express my thoughts quite confidently.
