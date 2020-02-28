@@ -65,7 +65,7 @@
 and now is looking for new opportunities.
 
 # **Education**
-## Minsk radio engineering college
+## Minsk radio engineering college' 2012
 ## Courses:
 #### ***Java programming***
 #### ***C language***
