@@ -4,9 +4,6 @@
 * Phone:                            +375 (25) 984-50-19
 * Linkedin:                         [https://www.linkedin.com/in/nikolai-kasperovich]
 
-# **Summary**
-> Currently I'm working as Web developer and have more than 5 years of coding expirience. Constantly learning new trends and techologies. Everything changes, so I decided to try change my professonal area. This brought me to The Rolling Scopes. Since my college years I've been inspired by Steve Jobs. He is truly legend. And Apple products really bringing difference and innovations. So I registered to this course without hesitations. I have never develop for iOS before and eager to start brand new chapter in my career.
->
 # **Main Skills**
 * PHP
 * Html
